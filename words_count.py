@@ -1,3 +1,5 @@
+# words count
+
 print("what's on your mind today?")
 s = input()
 words_count = s.count(' ') + 1
