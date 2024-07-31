@@ -1,6 +1,6 @@
 # What's my acronym?
 
-print('please enter the full meaning of an organization or concept')
+print('Please enter the full meaning of an organization or concept')
 meaning = input()
 words_list = meaning.split()
 acronym = ''
