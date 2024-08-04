@@ -1,4 +1,4 @@
-# rock paper scissors
+# Rock-paper-scissors
 
 import random
 print("Let's play rock paper scissors")

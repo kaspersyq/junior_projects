@@ -1,4 +1,4 @@
-# odd or even
+# Odd or even
 
 answer = 'y'
 while answer.lower() == 'y':

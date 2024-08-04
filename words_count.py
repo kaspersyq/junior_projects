@@ -1,4 +1,4 @@
-# words count
+# Words count
 
 print("what's on your mind today?")
 s = input()

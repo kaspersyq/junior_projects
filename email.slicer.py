@@ -1,4 +1,4 @@
-# email slicer
+# Email slicer
 
 email = input('Enter your email address: ').strip()
 username = email[:email.index('@')]

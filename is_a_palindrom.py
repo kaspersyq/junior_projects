@@ -1,4 +1,4 @@
-# is a palindrom
+# Is a palindrom
 
 words_list = input('Give me 5 words: ').split()
 for word in words_list:

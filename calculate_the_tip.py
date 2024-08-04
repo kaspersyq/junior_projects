@@ -1,4 +1,4 @@
-# calculate the tip
+# Calculate the tip
 
 from math import floor, ceil
 print("What's the total bill for today, please?")
